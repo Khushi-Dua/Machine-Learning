@@ -17,7 +17,7 @@ In this repo, you'll find various projects focusing on data exploration, analysi
 This repo is a **work in progress**, and I’m constantly adding new projects and learning from my mistakes along the way. Whether you’re just starting your own machine learning journey or exploring new techniques, feel free to dive in, check out my code, and share feedback.
 
 # 🎉 Let’s Learn Together:
-I’m excited to connect with other learners. Whether you’re new to machine learning or an experienced data scientist, feel free to check out my work, contribute, or just leave feedback. Together, we can grow and improve!🌱
+I’m excited to connect with other learners. Whether you’re new to machine learning or an experienced data scientist, feel free to check out my work or just leave feedback. Together, we can grow and improve!🌱
 
 If you find something useful or interesting, don't forget to give it a ⭐. 
 Thank you for visiting my repo, and happy learning! 💻🚀
